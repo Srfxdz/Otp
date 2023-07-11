@@ -9,8 +9,8 @@ twiliosmsnumber = '+13613144644'
 API_TOKEN = "6151586137:AAGB3c1QKQz_LbPAkrCOeNDu_-hPmtNxqhM"
 
 #Host URL
-callurl = 'https://5202c3065d89.ngrok.app/'
-twiliosmsurl = 'https://5202c3065d89.ngrok.app/sms'
+callurl = 'https://vinit.ngrok.dev'
+twiliosmsurl = 'https://vinit.ngrok.dev/sms'
 
 
 
